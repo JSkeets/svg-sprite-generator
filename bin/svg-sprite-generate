@@ -4,5 +4,6 @@
 "use strict";
 
 var generator = require("../lib/generator");
+console.log("HELLO")
 generator();
 
